@@ -18,4 +18,4 @@ Los archivos pueden ser descargados mediante los siguientes atajos
 
 [Descarga Ejercicio 1.4 en PDF](https://github.com/tiago-friscolanti/modulo_2/blob/main/Ejercicio%20Presentado/Ejercicio%201.4.pdf)
 
-[Descarga el archivo zip. con todo el proyecto]()
+[Descarga el archivo zip. con todo el proyecto](https://github.com/tiago-friscolanti/modulo_2/blob/main/Ejercicio%20Presentado/Ejercicio%201.4.zip)
